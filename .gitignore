@@ -1,0 +1,17 @@
+# Local game and modding dependencies
+*.dll
+*.pdb
+*.mdb
+*.zip
+
+# .NET builds
+**/bin/
+**/obj/
+.vs/
+.idea/
+
+# OS/editor temporary files
+.DS_Store
+Thumbs.db
+*.user
+*.suo
